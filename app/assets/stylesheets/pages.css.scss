@@ -6,6 +6,25 @@
   padding: 30px;
 }
 
+.about {
+  background: url(https://static.pexels.com/photos/5322/person-beach-holiday-vacation.jpg) no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+}
+
+.about h1 {
+  position: relative;
+  color: #fff;
+  font-size: 60px;
+  top: 150px;
+}
+
+
+.supp {
+  text-align: center;
+  padding: 50px;
+}
 .main {
   background: url(https://static.pexels.com/photos/35107/pexels-photo.jpg) no-repeat center center;
   background-size: cover;
